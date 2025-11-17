@@ -2,6 +2,10 @@
 
 A smart IoT-based farm monitoring system designed to measure soil moisture, temperature, humidity, and other environmental factors using an ESP8266 microcontroller, with real-time data sent to a cloud dashboard.
 
+Video Demo Link: [![YouTube](https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=-_rWHuWXixQ&list=PLm9t4xqFME-R6XbS7SNT1EwwjI3T4-Rnm&index=2)
+
+Documentation: [![Documentation](https://img.shields.io/badge/documentation-link-brightgreen?style=flat)](https://github.com/jethromoleno/farm-monitoring-system-esp8266/blob/main/docs/Farm%20Monitoring%20System%20IEEE.pdf)
+
 <h2>📌 Project Overview</h2>
 
 This project provides real-time monitoring of important farm conditions using an ESP8266 NodeMCU and multiple sensors. The system is capable of:
@@ -37,8 +41,6 @@ This kind of system helps farmers make data-driven decisions on irrigation and c
 - LM35 Temperature Sensor
 - TCRT1000 Optical Sensor
 - Water Level Sensor
-
-<h2>Video Demo Link:</h2> https://www.youtube.com/watch?v=-_rWHuWXixQ&list=PLm9t4xqFME-R6XbS7SNT1EwwjI3T4-Rnm&index=2
 
 <h2>ThingSpeak Channel:</h2> https://thingspeak.mathworks.com/channels/1518745
 
