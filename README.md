@@ -38,15 +38,15 @@ Sensors:
 - TCRT1000 Optical Sensor
 - Water Level Sensor
 
+Video Demo Link: https://www.youtube.com/watch?v=-_rWHuWXixQ&list=PLm9t4xqFME-R6XbS7SNT1EwwjI3T4-Rnm&index=2
+
 👨‍💻 Authors
 
 Jethro P. Moleno | Computer Engineering – Mapúa University | Email: jethromoleno@gmail.com | LinkedIn: www.linkedin.com/in/jethromoleno
-Eldrick John A. Aguado
-Computer Engineering – Mapúa University
 
-Gian Carlo R. Oraa
-Computer Engineering – Mapúa University
+Eldrick John A. Aguado | Computer Engineering – Mapúa University
 
-Dr. Jocelyn F. Villaverde
-School of EECE Faculty – Mapúa University
+Gian Carlo R. Oraa | Computer Engineering – Mapúa University
+
+Dr. Jocelyn F. Villaverde | School of EECE Faculty – Mapúa University
 
