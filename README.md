@@ -1,8 +1,8 @@
-🌱 Farm Monitoring System using ESP8266
+<h1>🌱 Farm Monitoring System using ESP8266</h1>
 
 A smart IoT-based farm monitoring system designed to measure soil moisture, temperature, humidity, and other environmental factors using an ESP8266 microcontroller, with real-time data sent to a cloud dashboard.
 
-📌 Project Overview
+<h2>📌 Project Overview</h2>
 
 This project provides real-time monitoring of important farm conditions using an ESP8266 NodeMCU and multiple sensors. The system is capable of:
 
@@ -14,7 +14,7 @@ This project provides real-time monitoring of important farm conditions using an
 
 This kind of system helps farmers make data-driven decisions on irrigation and climate control.
 
-🌾 Features
+<h2>🌾 Features</h2>
 
 - 🌡️ Temperature & Humidity monitoring (DHT11/DHT22)
 - 💧 Soil moisture sensor readings
@@ -24,13 +24,13 @@ This kind of system helps farmers make data-driven decisions on irrigation and c
 - ⚡ Low-power edge computing
 - 🔔 Supports threshold alerts (optional)
 
-🧠 Tech Stack
+<h2>🧠 Tech Stack</h2>
 
 - ESP8266 NodeMCU
 - Arduino IDE
 - ThingSpeak web service
 
-Sensors:
+<h2>Sensors:</h2>
 
 - FC-28 Soil Moisture Sensor
 - DHT22 Humidity Sensor
@@ -38,17 +38,23 @@ Sensors:
 - TCRT1000 Optical Sensor
 - Water Level Sensor
 
-Video Demo Link: https://www.youtube.com/watch?v=-_rWHuWXixQ&list=PLm9t4xqFME-R6XbS7SNT1EwwjI3T4-Rnm&index=2
+<h2>Video Demo Link:</h2> https://www.youtube.com/watch?v=-_rWHuWXixQ&list=PLm9t4xqFME-R6XbS7SNT1EwwjI3T4-Rnm&index=2
 
-ThingSpeak Channel: https://thingspeak.mathworks.com/channels/1518745
+<h2>ThingSpeak Channel:</h2> https://thingspeak.mathworks.com/channels/1518745
 
-👨‍💻 Authors
+<h2>👨‍💻 Authors</h2>
 
-Jethro P. Moleno | Computer Engineering – Mapúa University | Email: jethromoleno@gmail.com | LinkedIn: www.linkedin.com/in/jethromoleno
+Jethro P. Moleno 
+- Computer Engineering – Mapúa University
+- Email: jethromoleno@gmail.com
+- LinkedIn: www.linkedin.com/in/jethromoleno
 
-Eldrick John A. Aguado | Computer Engineering – Mapúa University
+Eldrick John A. Aguado
+- Computer Engineering – Mapúa University
 
-Gian Carlo R. Oraa | Computer Engineering – Mapúa University
+Gian Carlo R. Oraa
+- Computer Engineering – Mapúa University
 
-Dr. Jocelyn F. Villaverde | School of EECE Faculty – Mapúa University
+Dr. Jocelyn F. Villaverde
+- School of EECE Faculty – Mapúa University
 
