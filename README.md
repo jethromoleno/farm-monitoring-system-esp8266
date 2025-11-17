@@ -32,11 +32,11 @@ This kind of system helps farmers make data-driven decisions on irrigation and c
 
 Sensors:
 
-FC-28 Soil Moisture Sensor
-DHT22 Humidity Sensor
-LM35 Temperature Sensor
-TCRT1000 Optical Sensor
-Water Level Sensor
+- FC-28 Soil Moisture Sensor
+- DHT22 Humidity Sensor
+- LM35 Temperature Sensor
+- TCRT1000 Optical Sensor
+- Water Level Sensor
 
 👨‍💻 Authors
 
