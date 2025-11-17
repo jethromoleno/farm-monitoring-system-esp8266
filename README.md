@@ -40,11 +40,7 @@ Water Level Sensor
 
 👨‍💻 Authors
 
-Jethro P. Moleno
-Computer Engineering – Mapúa University
-Email: jethromoleno@gmail.com
-LinkedIn: your link here
-
+Jethro P. Moleno | Computer Engineering – Mapúa University | Email: jethromoleno@gmail.com | LinkedIn: www.linkedin.com/in/jethromoleno
 Eldrick John A. Aguado
 Computer Engineering – Mapúa University
 
