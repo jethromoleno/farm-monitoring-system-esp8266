@@ -40,6 +40,8 @@ Sensors:
 
 Video Demo Link: https://www.youtube.com/watch?v=-_rWHuWXixQ&list=PLm9t4xqFME-R6XbS7SNT1EwwjI3T4-Rnm&index=2
 
+ThingSpeak Channel: https://thingspeak.mathworks.com/channels/1518745
+
 👨‍💻 Authors
 
 Jethro P. Moleno | Computer Engineering – Mapúa University | Email: jethromoleno@gmail.com | LinkedIn: www.linkedin.com/in/jethromoleno
