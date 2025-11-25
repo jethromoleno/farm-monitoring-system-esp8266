@@ -26,7 +26,7 @@ This kind of system helps farmers make data-driven decisions on irrigation and c
 - ☁️ Cloud upload via MQTT or HTTP
 - 📊 Web dashboard in ThingSpeak for real-time visualization
 - ⚡ Low-power edge computing
-- 🔔 Supports threshold alerts (optional)
+- 🔔 Supports threshold alerts
 
 <h2>🧠 Tech Stack</h2>
 
